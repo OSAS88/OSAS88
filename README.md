@@ -47,9 +47,9 @@ Check the repositories for code, visuals, and insights.
 
 ## Let's Connect
 
-Email: [Aikhetuabhenosas@outlook.com ]
-LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/aikhetuabhen-o-53996a160)
-Portfolio Website: (https://github.com/OSAS88)
+- Email: [Aikhetuabhenosas@outlook.com ]
+- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/aikhetuabhen-o-53996a160)
+- Portfolio Website: (https://github.com/OSAS88)
 
 Based in Lagos, Nigeria – working with the world 🌍
 
