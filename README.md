@@ -53,6 +53,6 @@ Portfolio Website: (https://github.com/OSAS88)
 
 Based in Lagos, Nigeria – working with the world 🌍
 
-"Data is the new oil, but insights are the fuel that powers decisions."*
+"Data is the new oil, but insights are the fuel that powers decisions."
 
 Thanks for stopping by!
