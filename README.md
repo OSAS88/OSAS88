@@ -44,7 +44,7 @@ Check the repositories for code, visuals, and insights.
 Fun Facts About Me
 
   -I solve problems better with music in my ears
-  -I run a SnapBack brand called *Snow Caps* – because style matters even in spreadsheets 😎
+  -I run a SnapBack brand called Snow Caps – because style matters even in spreadsheets 😎
   -I love talking data, creativity, or ideas — hit me up!
 
 📬 Let's Connect
