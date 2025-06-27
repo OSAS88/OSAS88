@@ -1,4 +1,4 @@
-# Hi there, I'm Samuel Snow
+# Hi there, I'm Sammy Snow 
 
 Welcome to my GitHub space — where raw data transforms into clear insights and powerful stories.
 
