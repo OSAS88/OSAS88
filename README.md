@@ -27,15 +27,9 @@ Highlights:
   - Built interactive dashboards
   - Extracted insights on total sales, profit, and product performance
 
-👉 [View Project Folder](./Superstore-Sales-Analysis)
-
- Global CO₂ Emissions Dataset
-Goal: Explore carbon emissions by country and over time.
-Tools Used: Python (Pandas, Matplotlib)
-Insights:
-  - Visualized emissions trends over decades
-  - Compared regional impacts
-  - Identified high-emitting countries and policy implications
+2. 📦 Airbnb Market Analysis and Real Estate Sales Data.
+Goal: Identify Market Performance(kpls), Product Listing, Seasonal and Regional trends.
+Tools Used: Power BI, Excel..
 
 Check the repositories for code, visuals, and insights.
 
@@ -43,6 +37,7 @@ Check the repositories for code, visuals, and insights.
 
   - I solve problems better with music in my ears
   - I run a SnapBack brand called Snow Caps – because style matters even in spreadsheets 😎
+  - Building end-toend data project(from cleaning to visualiztion)
   - I love talking data, creativity, or ideas — hit me up!
 
 ## Let's Connect
